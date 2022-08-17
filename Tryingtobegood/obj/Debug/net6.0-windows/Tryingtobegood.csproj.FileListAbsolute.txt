@@ -1,0 +1,17 @@
+C:\Users\gborbely\source\repos\Tryingtobegood\Tryingtobegood\bin\Debug\net6.0-windows\Tryingtobegood.exe
+C:\Users\gborbely\source\repos\Tryingtobegood\Tryingtobegood\bin\Debug\net6.0-windows\Tryingtobegood.deps.json
+C:\Users\gborbely\source\repos\Tryingtobegood\Tryingtobegood\bin\Debug\net6.0-windows\Tryingtobegood.runtimeconfig.json
+C:\Users\gborbely\source\repos\Tryingtobegood\Tryingtobegood\bin\Debug\net6.0-windows\Tryingtobegood.dll
+C:\Users\gborbely\source\repos\Tryingtobegood\Tryingtobegood\bin\Debug\net6.0-windows\Tryingtobegood.pdb
+C:\Users\gborbely\source\repos\Tryingtobegood\Tryingtobegood\obj\Debug\net6.0-windows\Tryingtobegood.csproj.AssemblyReference.cache
+C:\Users\gborbely\source\repos\Tryingtobegood\Tryingtobegood\obj\Debug\net6.0-windows\Tryingtobegood.Form1.resources
+C:\Users\gborbely\source\repos\Tryingtobegood\Tryingtobegood\obj\Debug\net6.0-windows\Tryingtobegood.csproj.GenerateResource.cache
+C:\Users\gborbely\source\repos\Tryingtobegood\Tryingtobegood\obj\Debug\net6.0-windows\Tryingtobegood.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gborbely\source\repos\Tryingtobegood\Tryingtobegood\obj\Debug\net6.0-windows\Tryingtobegood.AssemblyInfoInputs.cache
+C:\Users\gborbely\source\repos\Tryingtobegood\Tryingtobegood\obj\Debug\net6.0-windows\Tryingtobegood.AssemblyInfo.cs
+C:\Users\gborbely\source\repos\Tryingtobegood\Tryingtobegood\obj\Debug\net6.0-windows\Tryingtobegood.csproj.CoreCompileInputs.cache
+C:\Users\gborbely\source\repos\Tryingtobegood\Tryingtobegood\obj\Debug\net6.0-windows\Tryingtobegood.dll
+C:\Users\gborbely\source\repos\Tryingtobegood\Tryingtobegood\obj\Debug\net6.0-windows\refint\Tryingtobegood.dll
+C:\Users\gborbely\source\repos\Tryingtobegood\Tryingtobegood\obj\Debug\net6.0-windows\Tryingtobegood.pdb
+C:\Users\gborbely\source\repos\Tryingtobegood\Tryingtobegood\obj\Debug\net6.0-windows\Tryingtobegood.genruntimeconfig.cache
+C:\Users\gborbely\source\repos\Tryingtobegood\Tryingtobegood\obj\Debug\net6.0-windows\ref\Tryingtobegood.dll
