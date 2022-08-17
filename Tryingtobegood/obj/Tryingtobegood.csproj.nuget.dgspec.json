@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gborbely\\source\\repos\\Tryingtobegood\\Tryingtobegood\\Tryingtobegood.csproj": {}
+    "C:\\Users\\gborbely\\source\\repos\\NumberPatterns\\Tryingtobegood\\Tryingtobegood.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gborbely\\source\\repos\\Tryingtobegood\\Tryingtobegood\\Tryingtobegood.csproj": {
+    "C:\\Users\\gborbely\\source\\repos\\NumberPatterns\\Tryingtobegood\\Tryingtobegood.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gborbely\\source\\repos\\Tryingtobegood\\Tryingtobegood\\Tryingtobegood.csproj",
+        "projectUniqueName": "C:\\Users\\gborbely\\source\\repos\\NumberPatterns\\Tryingtobegood\\Tryingtobegood.csproj",
         "projectName": "Tryingtobegood",
-        "projectPath": "C:\\Users\\gborbely\\source\\repos\\Tryingtobegood\\Tryingtobegood\\Tryingtobegood.csproj",
+        "projectPath": "C:\\Users\\gborbely\\source\\repos\\NumberPatterns\\Tryingtobegood\\Tryingtobegood.csproj",
         "packagesPath": "C:\\Users\\gborbely\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gborbely\\source\\repos\\Tryingtobegood\\Tryingtobegood\\obj\\",
+        "outputPath": "C:\\Users\\gborbely\\source\\repos\\NumberPatterns\\Tryingtobegood\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\gborbely\\AppData\\Roaming\\NuGet\\NuGet.Config",
